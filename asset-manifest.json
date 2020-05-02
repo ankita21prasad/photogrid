@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/photogrid/static/css/main.b493a473.chunk.css",
+    "main.js": "/photogrid/static/js/main.d2e06ea7.chunk.js",
+    "main.js.map": "/photogrid/static/js/main.d2e06ea7.chunk.js.map",
+    "runtime-main.js": "/photogrid/static/js/runtime-main.280e348c.js",
+    "runtime-main.js.map": "/photogrid/static/js/runtime-main.280e348c.js.map",
+    "static/js/2.813f73aa.chunk.js": "/photogrid/static/js/2.813f73aa.chunk.js",
+    "static/js/2.813f73aa.chunk.js.map": "/photogrid/static/js/2.813f73aa.chunk.js.map",
+    "index.html": "/photogrid/index.html",
+    "precache-manifest.63ce6676784cf63778d2c7166d9a0812.js": "/photogrid/precache-manifest.63ce6676784cf63778d2c7166d9a0812.js",
+    "service-worker.js": "/photogrid/service-worker.js",
+    "static/css/main.b493a473.chunk.css.map": "/photogrid/static/css/main.b493a473.chunk.css.map",
+    "static/js/2.813f73aa.chunk.js.LICENSE.txt": "/photogrid/static/js/2.813f73aa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/photogrid/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.280e348c.js",
+    "static/js/2.813f73aa.chunk.js",
+    "static/css/main.b493a473.chunk.css",
+    "static/js/main.d2e06ea7.chunk.js"
+  ]
+}
